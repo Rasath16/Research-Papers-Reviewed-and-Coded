@@ -1,11 +1,3 @@
-This is a great move. Hosting the code on GitHub establishes your portfolio and allows you to update the implementation later (e.g., adding the Family Tree experiment).
-
-Here is a professional, structured `README.md` file for your repository **Research-Papers-Reviewed-and-Coded**. I have designed it to grow as you add more papers.
-
-You can copy the raw Markdown below directly into your repository.
-
------
-
 # 📄 Research Papers Reviewed & Coded
 
   
